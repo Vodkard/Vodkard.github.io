@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Life? Don't talk to me about life. Brain the size of a planet and you want to talk about life...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jason Eastman. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am happily married
+- I have two stepdaughters and two daughters
+- I got my Bachelor's in Computational Mathematics
+- I love video, board, and card games.
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born and lived most of my life in Arizona. 
