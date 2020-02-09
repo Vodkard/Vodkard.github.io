@@ -58,21 +58,21 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
      color: red }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-size: 40px;
 }
 
 .gs-section-02 h3 { 
      color: blue }
 
 .gs-section-02 p {
-     font-size: 35px;
+     font-size: 20px;
 }
 
 .gs-section-03 h3 { 
      color: green }
 
 .gs-section-03 p {
-     font-size: 40px;
+     font-size: 600px;
 }
 
 </style>
