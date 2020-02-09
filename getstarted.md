@@ -26,19 +26,19 @@ Here is a 40-second video showing how to get started, with the specific steps be
 <div class="gs-section-01">
   <h3>1. Fork the Beautiful Jekyll repository</h3> 
 
-<p>Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.</p>
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 </div>
 
 <div class="gs-section-02">
   <h3>2. Rename the repository to `yourusername.github.io`</h3>
 
-<p>This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).</p>
+This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 </div>
 
 <div class="gs-section-03">
   <h3>3. Customize settings</h3>
 
-<p>Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.</p>
+Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
 </div>
 
 You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
@@ -72,7 +72,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
      color: green }
 
 .gs-section-03 p {
-     font-size: 600px;
+     font-size: 60px;
 }
 
 </style>
